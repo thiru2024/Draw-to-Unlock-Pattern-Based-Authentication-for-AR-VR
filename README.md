@@ -1,0 +1,1 @@
+This study looks into novel ways that employ an individual's uniqueness in drawing patterns in 3D space as an authentication mechanism that delivers both security and user comfort. We explored a novel technique for extracting individual-specific qualities from x, y, and z coordinates using geometrical and temporal aspects to identify identifiable patterns
